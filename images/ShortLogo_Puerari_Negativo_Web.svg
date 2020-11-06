@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92.101" height="143.5" version="1.1" viewBox="0 0 92.101 143.5" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata>
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);fill:#C6C6C6;}
+	.st2{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+</style>
+<g transform="translate(-357.7,-8.5)">
+	<defs>
+		<rect id="SVGID_1_" x="-122" y="-217.3" width="841.9" height="595.3"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use width="100%" height="100%" xlink:href="#SVGID_1_"/>
+	</clipPath>
+	
+	
+	
+	
+		<linearGradient id="SVGID_3_" x1="-122" x2="-121" y1="377.88" y2="377.88" gradientTransform="matrix(0 153.92 153.92 0 -57757 18781)" gradientUnits="userSpaceOnUse">
+		<stop stop-color="#80CFF5" offset="0"/>
+		<stop stop-color="#299DC5" offset=".2883"/>
+		<stop stop-color="#006D91" offset=".6256"/>
+		<stop stop-color="#005070" offset=".8723"/>
+		<stop stop-color="#004563" offset="1"/>
+	</linearGradient>
+	<path class="st2" d="m384.7 97.7v27.3h38.1v-35.7h-64.8v-35.1c-0.1-14.1 5.6-26.5 14.5-34.3 8.9-7.9 20.1-11.4 31.1-11.4 11.1 0 22.4 3.6 31.4 11.5 9 7.8 14.9 20.1 14.8 34.3h-27c-0.3-13.4-8.4-18-19.2-18.8-10.5 0.8-18.1 4.8-18.6 18.8v8.1h64.8v89.6h-92.1v-54.3z" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)"/>
+</g>
+</svg>
