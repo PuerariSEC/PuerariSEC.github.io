@@ -1,0 +1,30 @@
+
+/* SITE */
+
+Atualização: 06 / 11 / 20 (em 1817 D Pedro I se casa com Maria Leopoldina)
+Local:       Porto Alegre, RS - Brasil
+Língua:      Gaudéria
+Doctype:     HTML5
+Charset:     UTF-8 (sem BOM)
+IDE:         Sublime Text 3, VS Code
+Ferramentas: InkSpace, SVGO
+Standards:   HTML5 + CSS3
+
+
+
+
+/* EQUIPE */
+
+Preparem-se para a encrenca!
+Encrenca em dobro!
+Para proteger o mundo da devastação!
+Para unir as pessoas de nossa nação!
+Para denunciar os males da verdade e do amor!
+Para estender o nosso poder às estrelas!
+Jesse!
+James!
+Equipe Rocket decolando na velocidade da luz!
+Renda-se agora ou preparem-se
+Para lutar!
+{Meowth} é isso aí!
+
