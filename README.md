@@ -29,9 +29,15 @@
 
 ## Relatórios de desempenho
 
-- 2020-11-11 - (...)
-- 2020-11-07 - https://www.webpagetest.org/result/201107_DiG9_aa9753dc75f751adf869d1800042c349/
-- 2020-11-05 - https://www.webpagetest.org/result/201106_DiMK_c6903770c3131018dc3055150456e14a/
+- 2020-11-11
+	- Melhor: 1,3 segundos
+	- https://www.webpagetest.org/result/201110_Di1E_e426cc2d1c42f44713c9003d380500f1/
+- 2020-11-07
+	- Melhor: 3,7 segundos
+	- https://www.webpagetest.org/result/201107_DiG9_aa9753dc75f751adf869d1800042c349/
+- 2020-11-05
+	- Melhor: 3,95 segundos
+	- https://www.webpagetest.org/result/201106_DiMK_c6903770c3131018dc3055150456e14a/
 
 
 
@@ -78,11 +84,12 @@
 
 
 ## TODO
-- otimizar HTML + Microformats
-- otimizar SASS/CSS
+- pentear HTML + Microformats
+- empregar websafefonts / otimizar fontes
+- organizar SASS/CSS
 	- https://dev.to/dailydevtips1/i-made-my-website-28ms-faster-with-content-visibility-466e
 - cdn cloudflare
-- formulário de contato (sem captcha e seguro)
+- formulário de contato / orçamento (sem captcha e seguro)
 
 
 
