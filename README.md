@@ -44,6 +44,15 @@
 
 ## CHANGELOG
 
+### [0.0.5] - 2020-12-13
+
+#### Adicionado
+- conteúdo cru (2/6)
+	- /redes-seguras.html
+	- /backups-redundantes.html
+
+
+
 ### [0.0.4] - 2020-11-11
 
 #### Adicionado
@@ -55,6 +64,7 @@
 - minify CSS: main.css
 
 
+
 ### [0.0.3] - 2020-11-07
 
 #### Alterado
@@ -63,6 +73,7 @@
 	- 1280x
 	- 760x
 	- 512x
+
 
 
 ### [0.0.2] - 2020-11-06
@@ -76,7 +87,7 @@
 - humans.txt
 
 #### Alterado
-- otimizar SVG
+- otimizado SVG
 - CDN: jquery, jquery.scrollex
 - minify JS
 
@@ -84,12 +95,25 @@
 
 
 ## TODO
+- conteúdo
+	Respostas a incidentes
+		Orientamos e auxiliamos na coordenação do processo de resposta e tratamento de incidentes de segurança.
+	Treinamentos
+		Preparamos a sua empresa para estar protegida do phishing e da engenharia social.
+	Testes de invasão
+		Simulamos ataques externos para identificar falhas e vulnerabilidades da sua rede.
+	Relatórios detalhados
+		Análises de vulnerabilidades entregues em relatórios com sugestões de prioridade e recomendações de melhorias.
+
+- ajustar SEO nas metatags
 - pentear HTML + Microformats
+- BLOG; inspirado: https://sambatech.com/blog/
+- retirar javascript
 - empregar websafefonts / otimizar fontes
 - organizar SASS/CSS
 	- https://dev.to/dailydevtips1/i-made-my-website-28ms-faster-with-content-visibility-466e
 - cdn cloudflare
-- formulário de contato / orçamento (sem captcha e seguro)
+- formulário de contato / orçamento (sem captcha y seguro)
 
 
 
