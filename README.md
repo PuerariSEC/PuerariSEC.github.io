@@ -44,6 +44,18 @@
 
 ## CHANGELOG
 
+### [0.0.6] - 2020-12-16
+
+#### Alterado
+- ordem dos serviços na capa
+
+#### Adicionado
+- conteúdo cru (4/6)
+	- /testes-de-invasao.html
+	- /relatorios-detalhados.html
+
+
+
 ### [0.0.5] - 2020-12-13
 
 #### Adicionado
