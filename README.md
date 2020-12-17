@@ -12,37 +12,49 @@
 
 # Site puerarisec.com
 
-:star: Favorita nós no GitHub — nos ajuda!
 
 
 
+## Índice geral
 
-## Índice
-
-
-- [Relatórios de desempenho](#desempenho)
-- [CHANGELOG](#CHANGELOG)
 - [TODO](#TODO)
+- [CHANGELOG](#CHANGELOG)
+- [Relatórios de desempenho](#desempenho)
 
 
 
 
-## Relatórios de desempenho
+## TODO
 
-- 2020-11-11
-	- Melhor: 1,3 segundos
-	- https://www.webpagetest.org/result/201110_Di1E_e426cc2d1c42f44713c9003d380500f1/
-- 2020-11-07
-	- Melhor: 3,7 segundos
-	- https://www.webpagetest.org/result/201107_DiG9_aa9753dc75f751adf869d1800042c349/
-- 2020-11-05
-	- Melhor: 3,95 segundos
-	- https://www.webpagetest.org/result/201106_DiMK_c6903770c3131018dc3055150456e14a/
+- ajustar SEO nas metatags
+- pentear HTML + Microformats
+- inserir ilustrações nas sessões
+- BLOG; inspirado: https://sambatech.com/blog/
+- empregar websafefonts / otimizar fontes
+- organizar SASS/CSS
+	- https://dev.to/dailydevtips1/i-made-my-website-28ms-faster-with-content-visibility-466e
+- cdn cloudflare
+- formulário de contato / orçamento (sem captcha y seguro)
 
 
 
 
 ## CHANGELOG
+
+### [0.0.7] - 2020-12-17
+
+#### Alterado
+- /testes-de-invasao.html
+- /relatorios-detalhados.html
+- /redes-seguras.html
+- /backups-redundantes.html
+
+#### Adicionado
+- conteúdo cru (6/6)
+	- /respostas-a-incidentes.html
+	- /treinamentos.html
+
+
 
 ### [0.0.6] - 2020-12-16
 
@@ -106,26 +118,16 @@
 
 
 
-## TODO
-- conteúdo
-	Respostas a incidentes
-		Orientamos e auxiliamos na coordenação do processo de resposta e tratamento de incidentes de segurança.
-	Treinamentos
-		Preparamos a sua empresa para estar protegida do phishing e da engenharia social.
-	Testes de invasão
-		Simulamos ataques externos para identificar falhas e vulnerabilidades da sua rede.
-	Relatórios detalhados
-		Análises de vulnerabilidades entregues em relatórios com sugestões de prioridade e recomendações de melhorias.
+## Relatórios de desempenho
 
-- ajustar SEO nas metatags
-- pentear HTML + Microformats
-- BLOG; inspirado: https://sambatech.com/blog/
-- retirar javascript
-- empregar websafefonts / otimizar fontes
-- organizar SASS/CSS
-	- https://dev.to/dailydevtips1/i-made-my-website-28ms-faster-with-content-visibility-466e
-- cdn cloudflare
-- formulário de contato / orçamento (sem captcha y seguro)
-
+- 2020-11-11
+	- Resposta melhor: **1,3 segundos**
+	- https://www.webpagetest.org/result/201110_Di1E_e426cc2d1c42f44713c9003d380500f1/
+- 2020-11-07
+	- Resposta melhor: **3,7 segundos**
+	- https://www.webpagetest.org/result/201107_DiG9_aa9753dc75f751adf869d1800042c349/
+- 2020-11-05
+	- Resposta melhor: **3,95 segundos**
+	- https://www.webpagetest.org/result/201106_DiMK_c6903770c3131018dc3055150456e14a/
 
 
