@@ -26,9 +26,7 @@
 
 ## TODO
 
-- ajustar SEO nas metatags
 - pentear HTML + Microformats
-- inserir ilustrações nas sessões
 - BLOG; inspirado: https://sambatech.com/blog/
 - empregar websafefonts / otimizar fontes
 - organizar SASS/CSS
@@ -40,6 +38,18 @@
 
 
 ## CHANGELOG
+
+### [0.0.8] - 2021-03-03
+
+#### Alterado
+- no rodapé o endereço e CNPJ
+- ajuste no SEO das páginas
+
+#### Adicionado
+- ilustrações (em SVG) nas páginas internas
+- metatags para compartilhamentos
+
+
 
 ### [0.0.7] - 2020-12-17
 
