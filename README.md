@@ -29,6 +29,7 @@
 - pentear HTML + Microformats
 - BLOG; inspirado: https://sambatech.com/blog/
 - empregar websafefonts / otimizar fontes
+- remover / otimizar fontawesome
 - organizar SASS/CSS
 	- https://dev.to/dailydevtips1/i-made-my-website-28ms-faster-with-content-visibility-466e
 - cdn cloudflare
@@ -39,19 +40,38 @@
 
 ## CHANGELOG
 
-### [0.0.8] - 2021-03-03
+### [0.0.9] - 2021-04-21
+
+#### Adicionado
+- tema.css; paleta de cores: https://flatuicolors.com/palette/au
 
 #### Alterado
-- no rodapé o endereço e CNPJ
-- ajuste no SEO das páginas
+- Telefone: 3072 8475
+- Ajuste no acrônimo: PuerariSec
+
+#### Removido
+- TL; DR (nas páginas)
+
+
+
+### [0.0.8] - 2021-03-03
 
 #### Adicionado
 - ilustrações (em SVG) nas páginas internas
 - metatags para compartilhamentos
 
+#### Alterado
+- no rodapé o endereço e CNPJ
+- ajuste no SEO das páginas
+
 
 
 ### [0.0.7] - 2020-12-17
+
+#### Adicionado
+- conteúdo cru (6/6)
+	- /respostas-a-incidentes.html
+	- /treinamentos.html
 
 #### Alterado
 - /testes-de-invasao.html
@@ -59,22 +79,17 @@
 - /redes-seguras.html
 - /backups-redundantes.html
 
-#### Adicionado
-- conteúdo cru (6/6)
-	- /respostas-a-incidentes.html
-	- /treinamentos.html
-
 
 
 ### [0.0.6] - 2020-12-16
-
-#### Alterado
-- ordem dos serviços na capa
 
 #### Adicionado
 - conteúdo cru (4/6)
 	- /testes-de-invasao.html
 	- /relatorios-detalhados.html
+
+#### Alterado
+- ordem dos serviços na capa
 
 
 
@@ -133,9 +148,11 @@
 - 2020-11-11
 	- Resposta melhor: **1,3 segundos**
 	- https://www.webpagetest.org/result/201110_Di1E_e426cc2d1c42f44713c9003d380500f1/
+
 - 2020-11-07
 	- Resposta melhor: **3,7 segundos**
 	- https://www.webpagetest.org/result/201107_DiG9_aa9753dc75f751adf869d1800042c349/
+
 - 2020-11-05
 	- Resposta melhor: **3,95 segundos**
 	- https://www.webpagetest.org/result/201106_DiMK_c6903770c3131018dc3055150456e14a/
